@@ -1,0 +1,13 @@
+C:\Users\tenno\OneDrive\Рабочий стол\ООП\12 задание\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csprojAssemblyReference.cache
+C:\Users\tenno\OneDrive\Рабочий стол\ООП\12 задание\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\tenno\OneDrive\Рабочий стол\ООП\12 задание\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.AssemblyInfo.cs
+C:\Users\tenno\OneDrive\Рабочий стол\ООП\12 задание\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\tenno\OneDrive\Рабочий стол\ООП\12 задание\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.exe
+C:\Users\tenno\OneDrive\Рабочий стол\ООП\12 задание\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.deps.json
+C:\Users\tenno\OneDrive\Рабочий стол\ООП\12 задание\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.json
+C:\Users\tenno\OneDrive\Рабочий стол\ООП\12 задание\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.runtimeconfig.dev.json
+C:\Users\tenno\OneDrive\Рабочий стол\ООП\12 задание\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\tenno\OneDrive\Рабочий стол\ООП\12 задание\ConsoleApp12\bin\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\tenno\OneDrive\Рабочий стол\ООП\12 задание\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.dll
+C:\Users\tenno\OneDrive\Рабочий стол\ООП\12 задание\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.pdb
+C:\Users\tenno\OneDrive\Рабочий стол\ООП\12 задание\ConsoleApp12\obj\Debug\netcoreapp3.1\ConsoleApp12.genruntimeconfig.cache
